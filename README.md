@@ -3,13 +3,14 @@
 I'm Emmanuel Nyamekye, an aspiring SOC Analyst and a passionate IT professional with hands-on experience in vulnerability management, system monitoring, and network security. Leveraging my knowledge of cybersecurity frameworks and my background in IT operations, I am working toward becoming a proactive defender in a Security Operations Center (SOC).
 
 ### 💼 Professional Experience
-Current Role: Computer Operator at DLA (under AmericanCyber subcontracting for TekSynap)
+### Current Role: Computer Operator at DLA (under AmericanCyber subcontracting for TekSynap)
 
 🖥️ Monitor and maintain computer systems and networks with 99.9% uptime.
 🔧 Perform system updates, backups, and routine maintenance, reducing data loss by 20%.
 🚀 Analyze vulnerabilities in assigned systems, ensuring compliance with DOD IAVM and DISA STIG policies.
 🔗 Collaborate with mission partners and stakeholders to coordinate vulnerability remediation efforts.
-Past Role: IT Specialist at Sherwin Williams
+
+### Past Role: IT Specialist at Sherwin Williams
 
 🌐 Supported infrastructure security, resolved technical issues, and contributed to IT solutions improving operational efficiency.
 Cybersecurity Lab Work:
