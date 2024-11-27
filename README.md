@@ -91,7 +91,10 @@ Security Information and Event Management (SIEM) Analysis
 
 ### 🤝 Let's Connect
 - 🌍 linkedin.com/in/emmanuel-nyamekye-72a161237
--  Portfolio
+
+  ### Projects
+  -  <a href="https://google.com">Creating New Users and Adding to the Security Group</a>|
+  
   
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities. 
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities.
