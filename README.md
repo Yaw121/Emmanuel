@@ -94,6 +94,7 @@ Security Information and Event Management (SIEM) Analysis
 
   ### Projects
   -  <a href="https://github.com/Yaw121/Creating-User-using-Windows-PowerShell">Creating New Users and Adding to the Security Group</a>
+  - <a href="https://github.com/Yaw121/Creating-User-using-Windows-PowerShell">Examining Alerts, logs and rules with Suricata </a>
   
   
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities. 
