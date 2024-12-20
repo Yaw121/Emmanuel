@@ -24,8 +24,7 @@ Cybersecurity Lab Work:
 
 ### 📚 Current Projects & Learning
 - 🌍 Virtualized Lab Environment: Experimenting with Ubuntu and Raspberry Pi to simulate vulnerabilities and test cybersecurity defenses.
-- 🔍 Studying for CySA+ to deepen knowledge in threat detection, response, and security analytics.
-Security Information and Event Management (SIEM) Analysis
+- Security Information and Event Management (SIEM) Analysis
 - Designed and implemented a Splunk environment to monitor and analyze simulated security incidents.
 - Developed custom dashboards and alerts to identify suspicious activity, such as brute force attempts and malware infections.
 - Automated log ingestion from multiple sources, reducing manual effort by 40%.
