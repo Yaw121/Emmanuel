@@ -15,8 +15,12 @@ I'm Emmanuel Nyamekye, an aspiring SOC Analyst and a passionate IT professional 
 🌐 Supported infrastructure security, resolved technical issues, and contributed to IT solutions improving operational efficiency.
 Cybersecurity Lab Work:
 
-### 🛠️ Gained experience using platforms like TryHackMe and Hack The Box.
-👩‍💻 Built and secured environments on Raspberry Pi and Ubuntu, exploring vulnerabilities and defenses.
+### 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
+
+  -  <a href="https://github.com/Yaw121/Creating-User-using-Windows-PowerShell">Creating New Users and Adding to the Security Group</a>
+  - <a href="https://github.com/Yaw121/Suricata">Examining Alerts, logs and rules with Suricata </a>
+  - <a href="https://github.com/Yaw121/Vulnerability-Scanning-and-Penetration-Testing">Vulnerability-Scanning-and-Penetration-Testing </a>
+  - <a href="https://github.com/Yaw121/Incident-Response-Process---TryhHackMe">Incident-Response-Process---TryhHackMe </a>
 
 ### 🏆 Certifications
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -30,7 +34,6 @@ Cybersecurity Lab Work:
 - Automated log ingestion from multiple sources, reducing manual effort by 40%.
 ### 🔍 SOC Simulations:
 - Practicing threat detection, incident response, and log analysis on platforms like Splunk, ELK Stack, and Wireshark.
-- 📖 Preparing for CySA+ to deepen my understanding of threat management and security analytics.
 - 🚀 Exploring tools like SIEM, IDS/IPS, and firewalls to enhance my SOC skill set.
 
 
@@ -91,11 +94,7 @@ Cybersecurity Lab Work:
 ### 🤝 Let's Connect
 - 🌍 linkedin.com/in/emmanuel-nyamekye-72a161237
 
-  ### Projects
-  -  <a href="https://github.com/Yaw121/Creating-User-using-Windows-PowerShell">Creating New Users and Adding to the Security Group</a>
-  - <a href="https://github.com/Yaw121/Suricata">Examining Alerts, logs and rules with Suricata </a>
-  - <a href="https://github.com/Yaw121/Vulnerability-Scanning-and-Penetration-Testing">Vulnerability-Scanning-and-Penetration-Testing </a>
-  - <a href="https://github.com/Yaw121/Incident-Response-Process---TryhHackMe">Incident-Response-Process---TryhHackMe </a>
+ 
   
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities. 
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities.
