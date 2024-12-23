@@ -21,7 +21,7 @@ Cybersecurity Lab Work:
   - <a href="https://github.com/Yaw121/Suricata">Examining Alerts, logs and rules with Suricata </a>
   - <a href="https://github.com/Yaw121/Vulnerability-Scanning-and-Penetration-Testing">Vulnerability-Scanning-and-Penetration-Testing </a>
   - <a href="https://github.com/Yaw121/Incident-Response-Process---TryhHackMe">Incident-Response-Process---TryhHackMe </a>
-  - <a href="https://github.com/Yaw121/OpenVas">OpenVas Vulnerability Management </a>
+  - <a href="https://github.com/Yaw121/OpenVas">OpenVas Vulnerability Management --- TryHackMe</a>
   
   
 
