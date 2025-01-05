@@ -22,8 +22,14 @@ Cybersecurity Lab Work:
   - <a href="https://github.com/Yaw121/Vulnerability-Scanning-and-Penetration-Testing">Vulnerability-Scanning-and-Penetration-Testing </a>
   - <a href="https://github.com/Yaw121/Incident-Response-Process---TryhHackMe">Incident-Response-Process---TryhHackMe </a>
   - <a href="https://github.com/Yaw121/OpenVas">OpenVas Vulnerability Management --- TryHackMe</a>
-  - <a href="https://app.letsdefend.io/my-rewards/detail/48b03a0a48e34391a0843b5bc795fefc">Cyber Kill Chain Course --- LetsDefend</a>
+ <details> <summary> <a href="https://app.letsdefend.io/my-rewards/detail/48b03a0a48e34391a0843b5bc795fefc">Cyber Kill Chain Course --- LetsDefend</a></summary>
 
+- A comprehensive understanding of the different stages of a cyber attack and how to identify and analyze each stage
+- An understanding of how to develop effective strategies to prevent, detect, and respond to cyber attacks
+- Improved incident response skills and the ability to effectively mitigate the impact of a cyber attack
+ 
+ </details>
+ 
   
 
 ### 🏆 Certifications
