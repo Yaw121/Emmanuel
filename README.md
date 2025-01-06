@@ -30,9 +30,16 @@ Cybersecurity Lab Work:
  
  </details>
  
-  
+  <details> <summary> <a href="https://app.letsdefend.io/my-rewards/detail/e5354c975d8745cfb66aa0021b46dc08">  MITRE ATT&CK COURSE --- LetsDefend</a></summary>
 
-### 🏆 Certifications
+ - Gained a thorough understanding of the MITRE ATT&CK Framework and its importance for SOC analysts.
+ - Developed knowledge of the various tactics, techniques, and procedures (TTPs) used by threat actors to conduct attacks on computer networks.
+ - Learned how to use the MITRE ATT&CK Framework to identify and categorize different types of attacks based on the tactics and techniques used.
+ - Understand how the MITRE ATT&CK Framework can be used to improve incident response and threat intelligence gathering.
+</details>
+
+
+<b>🏆 Certifications</b>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
