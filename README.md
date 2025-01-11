@@ -38,6 +38,7 @@ Cybersecurity Lab Work:
  - Understand how the MITRE ATT&CK Framework can be used to improve incident response and threat intelligence gathering.
 </details>
 
+- <a href="https://github.com/Yaw121/IDS-IPS-FIREWALL-EDR-PROJECT">IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend </a>
 
 <b>🏆 Certifications</b>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
