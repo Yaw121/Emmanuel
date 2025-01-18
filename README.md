@@ -40,6 +40,8 @@ Cybersecurity Lab Work:
 
 - <a href="https://github.com/Yaw121/IDS-IPS-FIREWALL-EDR-PROJECT">IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend </a>
 
+ - <a href="https://github.com/Yaw121/Computer-Forensics-Project">Computer Forensics Project
+
 <b>🏆 Certifications</b>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
