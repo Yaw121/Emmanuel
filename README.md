@@ -42,9 +42,14 @@ Cybersecurity Lab Work:
 
  - <a href="https://github.com/Yaw121/Computer-Forensics-Project">Computer Forensics Project
 
+- <a href="https://github.com/Yaw121/CONFIGURING-A-NETWORK-BASED-FIREWALL"> CONFIGURING A NETWORK BASED FIREWALL PROJECT
+
+
 <b>🏆 Certifications</b>
+<div></div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 ### 📚 Current Projects & Learning
 - 🌍 Virtualized Lab Environment: Experimenting with Ubuntu and Raspberry Pi to simulate vulnerabilities and test cybersecurity defenses.
