@@ -40,8 +40,12 @@ Cybersecurity Lab Work:
 
 - <a href="https://github.com/Yaw121/IDS-IPS-FIREWALL-EDR-PROJECT">IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend </a>
 
- - <a href="https://github.com/Yaw121/Computer-Forensics-Project">Computer Forensics Project
+ <details>
+<summary> - <a href="https://github.com/Yaw121/Computer-Forensics-Project">Computer Forensics Project</summary>
 
+  <a href="https://github.com/Yaw121/DATA-ACQUISITION">DATA ACQUISITION
+    
+</details>
 - <a href="https://github.com/Yaw121/CONFIGURING-A-NETWORK-BASED-FIREWALL"> CONFIGURING A NETWORK BASED FIREWALL PROJECT
 
 - <a href="https://app.letsdefend.io/my-rewards/detail/0817a041-f6ce-4419-bf23-9699dff4cd3a"> INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
